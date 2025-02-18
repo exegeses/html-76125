@@ -1,0 +1,15 @@
+/* @import url(https://fonts.bunny.net/css?family=advent-pro:200,400,700); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    /*  comentario  */ 
+    background-color: hsl(330, 80%, 6%);
+    color: hsl(330, 100%, 71%);
+    /* font-family: 'Advent Pro', sans-serif; */
+    font-family: "Roboto", serif;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: 400;
+}
