@@ -1,0 +1,17 @@
+body{
+    background-color: #e8e8e8;
+}
+header{
+    height: 104px;
+    background-color: hsl(20, 100%, 50%);
+}
+main{
+    width: 960px;
+    min-height: 710px;
+    margin: auto; /* centrar el contenedor */
+    background-color: #fff;
+}
+footer{
+    height: 216px;
+    background-color: #a8a8a8;
+}
