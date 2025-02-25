@@ -8,4 +8,17 @@
     6.- maquetado
     
 
+## Software de prototipado    
+
+    Figma   
+    https://www.figma.com
+    
+    JustInMind 
+    https://www.justinmind.com/
+
+    Framer 
+    https://www.framer.com/
+
+    Whimsical
+    https://whimsical.com/
 

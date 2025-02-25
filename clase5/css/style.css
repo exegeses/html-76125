@@ -1,0 +1,41 @@
+body{
+    width: 768px;
+    margin: auto;
+    background-color: hsl(133, 88%, 4%);
+    color: hsl(133, 88%, 80%);
+    font-family: sans-serif
+}
+
+section{
+    background-color: hsl(133, 88%, 0%);
+    height: 316px;
+}
+article{
+    width: 128px;
+    height: 128px;
+    background-color: hsl(133, 40%, 40%);
+    border: 1px solid #fff;
+}
+
+/* flexbox */
+#horizontal{
+    display: flex;
+    /* Distribución en el eje horizontal */
+    /* justify-content: start; /* Predeterminado: a la izquierda */
+    /* justify-content: end; /* a la derecha */
+    justify-content: center;
+}
+
+#vertical{
+    display: flex;
+    /* Distribución en el eje vertical */
+    /* align-items: start; /* Predeterminado: arriba */
+    /* align-items: end; /* debajo */
+    align-items: center;
+}
+
+#ambos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

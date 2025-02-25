@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    background-color: hsl(240, 37%, 8%);
+    color: #fff;
+    font-family: "Figtree", serif;
+}
+
+header{
+     width: 1200px;
+     height: 104px;
+     background-color: hsl(243, 38%, 12%);   
+}
+
+main{
+    width: 1200px;
+    height: 780px; /* revisar */
+    /* background-color: hsl(240, 37%, 8%); */
+}
+footer{
+    width: 1200px;
+    height: 216px;
+    background-color: hsl(240, 40%, 4%);
+}
