@@ -7,17 +7,30 @@ body{
 }
 
 header{
-     width: 1200px;
-     height: 104px;
-     background-color: hsl(243, 38%, 12%);   
+    margin: auto;
+    width: 1200px;
+    height: 104px;
+    background-color: hsl(243, 38%, 12%);   
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+    header nav a{
+        margin: 12px;
+        color: #fff;
+        font-size: 20px;
+        text-decoration: none; /* quitar subrayado */
+    }
 
 main{
+    margin: auto;
     width: 1200px;
     height: 780px; /* revisar */
     /* background-color: hsl(240, 37%, 8%); */
 }
 footer{
+    margin: auto;
     width: 1200px;
     height: 216px;
     background-color: hsl(240, 40%, 4%);
