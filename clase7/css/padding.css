@@ -1,0 +1,32 @@
+
+/* selector universal */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 768px;
+    margin: auto;
+    background-color: #190410;
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+article{
+    width: 216px;
+    height: 96px;
+    margin: 20px 0px;
+}
+#amarillo{
+    background-color: #ff0;
+    color: #190410;
+}
+#naranja{
+    background-color: #f60;
+    padding: 20px;
+}
+#rojo{
+    background-color: #f00;
+}
