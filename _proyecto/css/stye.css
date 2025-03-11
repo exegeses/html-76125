@@ -7,7 +7,6 @@
     box-sizing: border-box;
 }
 
-
 body{
     background-color: hsl(240, 37%, 8%);
     color: #fff;
@@ -34,7 +33,7 @@ header{
 main{
     margin: auto;
     width: 1200px;
-    height: 780px; /* revisar */
+    min-height: 780px;
     /* background-color: hsl(240, 37%, 8%); */
 }
 
@@ -73,8 +72,19 @@ main{
 
 
 footer{
-    margin: auto;
+    margin: 56px auto 0px auto;
     width: 1200px;
     height: 216px;
     background-color: hsl(240, 40%, 4%);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+    #logo-footer{
+        width: 152px;
+    }
+    footer nav a{
+        margin: 16px;
+        text-decoration: none;
+    }
