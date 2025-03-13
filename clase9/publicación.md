@@ -34,3 +34,9 @@ selecionar "master"
 > Si no aparece en un minuto, actualiza la página
 
 ## Pagas
+
+Nuthost <https://nuthost.com/es-ar/>
+
+LatinCloud <https://latincloud.com/>
+
+Hostinger <https://www.hostinger.com/>
